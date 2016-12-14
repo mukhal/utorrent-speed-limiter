@@ -1,0 +1,9 @@
+D:\Programming\C# Projects\idle_down_limit\idle_down_limit\bin\Debug\idle_down_limit.exe.config
+D:\Programming\C# Projects\idle_down_limit\idle_down_limit\bin\Debug\idle_down_limit.exe
+D:\Programming\C# Projects\idle_down_limit\idle_down_limit\bin\Debug\idle_down_limit.pdb
+D:\Programming\C# Projects\idle_down_limit\idle_down_limit\obj\Debug\idle_down_limit.csprojResolveAssemblyReference.cache
+D:\Programming\C# Projects\idle_down_limit\idle_down_limit\obj\Debug\idle_down_limit.Properties.Resources.resources
+D:\Programming\C# Projects\idle_down_limit\idle_down_limit\obj\Debug\idle_down_limit.csproj.GenerateResource.Cache
+D:\Programming\C# Projects\idle_down_limit\idle_down_limit\obj\Debug\idle_down_limit.exe
+D:\Programming\C# Projects\idle_down_limit\idle_down_limit\obj\Debug\idle_down_limit.pdb
+D:\Programming\C# Projects\idle_down_limit\idle_down_limit\obj\Debug\idle_down_limit.Form1.resources
